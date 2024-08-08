@@ -8,7 +8,6 @@ const ProjectManagement = () => {
   return (
     <div className="w-full relative bg-gainsboro-100 h-[1200px] overflow-hidden text-left text-base text-slategray font-inter">
       <div className="absolute top-[134px] left-[80px] shadow-[0px_44px_84px_6px_#d8d9db] rounded-[30px] bg-white w-[1440px] h-[932px]" />
-      <img className="relative w-[206px] h-[233px]" alt="" src="/union.svg" />
       <div className="absolute top-[359px] left-[1252px] w-[220px] h-10">
         <div className="absolute top-[0px] left-[0px] w-[97px] h-10">
           <img
@@ -174,7 +173,7 @@ const ProjectManagement = () => {
       <div className="absolute top-[156px] left-[379px] w-[417px] h-11 text-sm">
         <div className="absolute top-[0px] left-[0px] rounded-md bg-whitesmoke w-[417px] h-11" />
         <div className="absolute top-[10px] left-[16.8px] w-[179px] h-[22px]">
-          <div className="absolute top-[3px] left-[38px]">
+          <div className="absolute top-[3px] left-[35px]">
             Search for anything...
           </div>
           <img
@@ -192,7 +191,7 @@ const ProjectManagement = () => {
         />
         <div className="absolute top-[0px] left-[0px] w-[113px] h-[39px]">
           <div className="absolute top-[0px] left-[0px]">Anima Agrawal</div>
-          <div className="absolute top-[22px] left-[51px] text-sm text-slategray">
+          <div className="absolute top-[45px] left-[50px] text-sm text-slategray">
             U.P, India
           </div>
         </div>
